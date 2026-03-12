@@ -11,4 +11,8 @@
 
 ## 📊 GitHub 统计
 
-![](https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&show_icons=true&theme=radical.png)
+![Peiyuan’s GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&show_icons=true&theme=radical.png)
+
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&layout=compact&theme=radical.png)

@@ -18,6 +18,6 @@ editor: visual
 
 ## 📊 GitHub 统计
 
-![](https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&show_icons=true&theme=radical)
+![Peiyuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&show_icons=true&theme=radical)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&layout=compact&theme=radical)
