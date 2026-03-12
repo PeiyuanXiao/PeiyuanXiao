@@ -34,7 +34,6 @@ I am a Paleolithic Archaeologist dedicated to bridging the gap between tradition
 ## 📊 GitHub Statistics
 
 <p align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&amp;show_icons=true&amp;theme=radical" alt="Peiyuan&apos;s GitHub Stats" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&amp;layout=compact&amp;theme=radical" alt="Top Langs" width="444"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&layout=compact&theme=radical" height="170" />
 </p>
