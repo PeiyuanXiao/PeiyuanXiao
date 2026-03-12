@@ -11,20 +11,26 @@ traditional lithic analysis and modern computational methods.
 
 ## 🏛️ Academic Affiliation
 
-- **PhD Candidate** \| Chinese Academy of Sciences (CAS), Beijing
-- **Visiting Scholar** \| University of Washington (UW), Seattle
+- ![CAS](https://img.shields.io/badge/CAS-%23005CAF.svg?style=flat-square)
+  **PhD Candidate** \| Chinese Academy of Sciences (CAS), Beijing
+
+- ![UW](https://img.shields.io/badge/UW-%234b2e83.svg?style=flat-square&logo=university-of-washington&logoColor=white)
+  **Visiting Scholar** \| University of Washington (UW), Seattle
 
 ## 🔍 Research Interests
 
 - **Human Behavior**: Investigating Middle Paleolithic technological
   behavior and human evolution.
+
 - **Quantitative Lithic Analysis**: Enhancing the rigor of lithic
   studies through statistical modeling and reproducible workflows.
+
 - **Open Science** ![Open
   Science](https://img.shields.io/badge/Open-Science-blue?style=flat-square.png):
   Developing and sharing open-source code for data processing,
   practicing reproducible researchunder the guidance of [Prof. Ben
   Marwick](https://github.com/benmarwick).
+
 - **Publication**: Find my publications on
   [ResearchGate](https://www.researchgate.net/profile/Peiyuan-Xiao).
 
@@ -40,8 +46,11 @@ traditional lithic analysis and modern computational methods.
 <p align="center">
 
 <a href="https://github.com/PeiyuanXiao">
-<img src="https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&show_icons=true&theme=radical" alt="Peiyuan's github stats" height="190" />
-</a>    <a href="https://github.com/PeiyuanXiao">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&layout=compact&theme=radical" height="190" />
+<img src="https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;bg_color=00000000&amp;v=2" alt="Peiyuan&apos;s GitHub Stats" height="175"/>
 </a>
+
+   <a href="https://github.com/PeiyuanXiao">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;bg_color=00000000&amp;v=2" alt="Top Langs" height="175"/>
+</a>
+
 </p>
