@@ -37,8 +37,5 @@ traditional lithic analysis and modern computational methods.
 
 ## 📊 GitHub Statistics
 
-<p align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&show_icons=true&theme=radical" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&layout=compact&theme=radical" height="170" />
-</p>
+| <a href="https://github.com/PeiyuanXiao"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&show_icons=true&theme=radical&hide_border=false" alt="Peiyuan's github stats" height="175px" /></a> | <a href="https://github.com/PeiyuanXiao"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&layout=compact&theme=radical&hide_border=false" height="175px" /></a> |
+|:--:|:--:|
