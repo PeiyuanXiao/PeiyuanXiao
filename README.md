@@ -1,19 +1,45 @@
-# My GitHub Profile
 
 
-# Hi, I’m Peiyuan 👋
+<p align="center">
 
-## 🛠 技能栈
+<img src="./assets/header.png" alt="Peiyuan - I DO OPEN SCIENCE LITHICS!" width="100%"/>
 
-- **编程语言**: `R` (tidyverse, ggplot2), `Python`, `SQL`
-- **数据处理**: 3D 建模 (Blender), 空间分析, 石器技术统计
-- **工具**: Git/GitHub, Quarto, Docker
+</p>
 
-## 📊 GitHub 统计
+I am a Paleolithic Archaeologist dedicated to bridging the gap between
+traditional lithic analysis and modern computational methods.
+
+## 🏛️ Academic Affiliation
+
+- **PhD Candidate** \| Chinese Academy of Sciences (CAS), Beijing
+- **Visiting Scholar** \| University of Washington (UW), Seattle
+
+## 🔍 Research Interests
+
+- **Human Behavior**: Investigating Middle Paleolithic technological
+  behavior and human evolution.
+- **Quantitative Lithic Analysis**: Enhancing the rigor of lithic
+  studies through statistical modeling and reproducible workflows.
+- **Open Science** ![Open
+  Science](https://img.shields.io/badge/Open-Science-blue?style=flat-square.png):
+  Developing and sharing open-source code for data processing,
+  practicing reproducible researchunder the guidance of [Prof. Ben
+  Marwick](https://github.com/benmarwick).
+- **Publication**: Find my publications on
+  [ResearchGate](https://www.researchgate.net/profile/Peiyuan-Xiao).
+
+## 🛠️ Tech Stack & Skills
+
+- **Languages**: `R`, `Python`
+- **Methods**: Lithic Analysis, Geometric Morphometrics, Statistics.
+- **Tools**: Git/GitHub, R & Python, QGIS, Photoshop & Adobe
+  Illustrator.
+
+## 📊 GitHub Statistics
 
 <p align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&amp;show_icons=true&amp;theme=radical" alt="Peiyuan&apos;s GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&amp;layout=compact&amp;theme=radical" alt="Top Langs" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&amp;layout=compact&amp;theme=radical" alt="Top Langs" width="444"/>
 
 </p>
