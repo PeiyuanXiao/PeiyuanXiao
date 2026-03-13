@@ -28,7 +28,7 @@ traditional lithic analysis and modern computational methods.
 - **Open Science** ![Open
   Science](https://img.shields.io/badge/Open-Science-blue?style=flat-square.png):
   Developing and sharing open-source code for data processing,
-  practicing reproducible researchunder the guidance of [Prof. Ben
+  practicing reproducible research under the guidance of [Prof. Ben
   Marwick](https://github.com/benmarwick).
 
 - **Publication**: Find my publications on
