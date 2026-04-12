@@ -11,22 +11,21 @@ traditional lithic analysis and modern computational methods.
 
 ## 🏛️ Academic Affiliation
 
-- ![CAS](https://img.shields.io/badge/CAS-%23005CAF.svg?style=flat-square)
-  **PhD Candidate** \| Chinese Academy of Sciences (CAS), Beijing
+- [![CAS](https://img.shields.io/badge/CAS-%23005CAF.svg?style=flat-square)](https://www.ucas.edu.cn/)
+  **PhD Candidate** | Chinese Academy of Sciences (CAS), Beijing
 
-- ![UW](https://img.shields.io/badge/UW-%234b2e83.svg?style=flat-square&logo=university-of-washington&logoColor=white)
-  **Visiting Scholar** \| University of Washington (UW), Seattle
+- [![UW](https://img.shields.io/badge/UW-%234b2e83.svg?style=flat-square&logo=university-of-washington&logoColor=white)](https://www.washington.edu/)
+  **Visiting Scholar** | University of Washington (UW), Seattle
 
 ## 🔍 Research Interests
 
 - **Human Behavior**: Investigating Middle Paleolithic technological
   behavior and human evolution.
 
-- **Quantitative Lithic Analysis**: Enhancing the rigor of lithic
-  studies through statistical modeling and reproducible workflows.
+- **Quantitative Lithic Analysis**: Enhancing lithic
+  analytical methods through statistical modeling and reproducible workflows.
 
-- **Open Science** ![Open
-  Science](https://img.shields.io/badge/Open-Science-blue?style=flat-square.png):
+- **Open Science** [![Open Science](https://img.shields.io/badge/Open-Science-blue?style=flat-square)](https://en.wikipedia.org/wiki/Open_science):
   Developing and sharing open-source code for data processing,
   practicing reproducible research under the guidance of [Prof. Ben
   Marwick](https://github.com/benmarwick).
@@ -48,8 +47,6 @@ traditional lithic analysis and modern computational methods.
 <div align="center">
   <img src="https://raw.githubusercontent.com/PeiyuanXiao/PeiyuanXiao/output/github-contribution-grid-snake.svg" />
 </div>
-
-<hr/>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
