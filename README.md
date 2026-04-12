@@ -37,8 +37,9 @@ traditional lithic analysis with modern computational methods.
 
 - **Languages**: `R`, `Python`
 - **Methods**: Lithic Analysis, Geometric Morphometrics, Statistics.
-- **Tools**: Git/GitHub, R & Python, QGIS, Photoshop & Adobe
+- **Tools**: GitHub, R & Python, QGIS, Photoshop & Adobe
   Illustrator.
+- **Artifact Drawing**
 
 ## 📊 GitHub Statistics
 
