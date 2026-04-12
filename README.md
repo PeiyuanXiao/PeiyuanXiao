@@ -6,8 +6,8 @@
 
 </p>
 
-I am a Paleolithic Archaeologist dedicated to bridging the gap between
-traditional lithic analysis and modern computational methods.
+I am a Paleolithic archaeology student focused on integrating
+traditional lithic analysis with modern computational methods.
 
 ## 🏛️ Academic Affiliation
 
