@@ -51,12 +51,12 @@ traditional lithic analysis and modern computational methods.
 
 <p align="center">
 
-<a href="https://github.com/PeiyuanXiao"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeiyuanXiao&amp;theme=vue" alt="GitHub stats" width="340"/></a><a href="https://github.com/PeiyuanXiao"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PeiyuanXiao&amp;theme=vue" alt="Top programming languages" width="340"/></a>
+<a href="https://github.com/PeiyuanXiao"><img src="https://github-readme-stats-fast.vercel.app/api?username=PeiyuanXiao&amp;show_icons=true&amp;theme=vue&amp;hide_border=false&amp;border_radius=5" alt="GitHub stats" width="467"/></a><a href="https://github.com/PeiyuanXiao"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PeiyuanXiao&amp;layout=compact&amp;theme=vue&amp;hide_border=false&amp;border_radius=5&amp;card_width=300" alt="Top programming languages" width="355"/></a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/PeiyuanXiao"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=PeiyuanXiao&amp;theme=vue&amp;border_radius=5" alt="GitHub streak stats" width="680"/></a>
+<a href="https://github.com/PeiyuanXiao"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=PeiyuanXiao&amp;theme=vue&amp;border_radius=5" alt="GitHub streak stats" width="822"/></a>
 
 </p>
