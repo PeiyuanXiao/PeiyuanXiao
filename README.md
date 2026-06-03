@@ -57,5 +57,15 @@ traditional lithic analysis with modern computational methods.
   <img 
     src="https://streak-stats.demolab.com?user=PeiyuanXiao&theme=react&count_private=true&border_radius=10" 
     width="390"
+    alt="GitHub streak stats"
   />
 </picture>
+<picture>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&layout=compact&theme=react&hide_border=true&border_radius=10"
+    width="320"
+    alt="Top programming languages"
+  />
+</picture>
+
+</div>
