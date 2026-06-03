@@ -6,28 +6,29 @@
 
 </p>
 
-I am a Paleolithic archaeology student focused on integrating
-traditional lithic analysis with modern computational methods.
+I am a Paleolithic Archaeologist dedicated to bridging the gap between
+traditional lithic analysis and modern computational methods.
 
 ## 🏛️ Academic Affiliation
 
-- [![CAS](https://img.shields.io/badge/CAS-%23005CAF.svg?style=flat-square)](https://www.ucas.edu.cn/)
-  **PhD Candidate** | Chinese Academy of Sciences (CAS), Beijing
+- ![CAS](https://img.shields.io/badge/CAS-%23005CAF.svg?style=flat-square)
+  **PhD Candidate** \| Chinese Academy of Sciences (CAS), Beijing
 
-- [![UW](https://img.shields.io/badge/UW-%234b2e83.svg?style=flat-square&logo=university-of-washington&logoColor=white)](https://www.washington.edu/)
-  **Visiting Scholar** | University of Washington (UW), Seattle
+- ![UW](https://img.shields.io/badge/UW-%234b2e83.svg?style=flat-square&logo=university-of-washington&logoColor=white)
+  **Visiting Scholar** \| University of Washington (UW), Seattle
 
 ## 🔍 Research Interests
 
 - **Human Behavior**: Investigating Middle Paleolithic technological
   behavior and human evolution.
 
-- **Quantitative Lithic Analysis**: Enhancing lithic
-  analytical methods through statistical modeling and reproducible workflows.
+- **Quantitative Lithic Analysis**: Enhancing the rigor of lithic
+  studies through statistical modeling and reproducible workflows.
 
-- **Open Science** [![Open Science](https://img.shields.io/badge/Open-Science-blue?style=flat-square)](https://en.wikipedia.org/wiki/Open_science):
+- **Open Science** ![Open
+  Science](https://img.shields.io/badge/Open-Science-blue?style=flat-square.png):
   Developing and sharing open-source code for data processing,
-  practicing reproducible research under the guidance of [Prof. Ben
+  practicing reproducible researchunder the guidance of [Prof. Ben
   Marwick](https://github.com/benmarwick).
 
 - **Publication**: Find my publications on
@@ -37,35 +38,13 @@ traditional lithic analysis with modern computational methods.
 
 - **Languages**: `R`, `Python`
 - **Methods**: Lithic Analysis, Geometric Morphometrics, Statistics.
-- **Tools**: GitHub, R & Python, QGIS, Photoshop & Adobe
+- **Tools**: Git/GitHub, R & Python, QGIS, Photoshop & Adobe
   Illustrator.
-- **Artifact Drawing**
 
 ## 📊 GitHub Statistics
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<p align="center">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PeiyuanXiao/PeiyuanXiao/output/github-contribution-grid-snake.svg" />
-</div>
+<a href="https://github.com/PeiyuanXiao"><img src="https://github-readme-stats.vercel.app/api?username=PeiyuanXiao&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;bg_color=00000000&amp;v=3" alt="Stats" height="150"/></a><a href="https://github.com/PeiyuanXiao"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;bg_color=00000000&amp;v=3" alt="Langs" height="150"/></a>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
-<div align="center">
-
-<picture>
-  <img 
-    src="https://streak-stats.demolab.com?user=PeiyuanXiao&theme=react&count_private=true&border_radius=10" 
-    width="390"
-    alt="GitHub streak stats"
-  />
-</picture>
-<picture>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiyuanXiao&layout=compact&theme=react&hide_border=true&border_radius=10"
-    width="320"
-    alt="Top programming languages"
-  />
-</picture>
-
-</div>
+</p>
