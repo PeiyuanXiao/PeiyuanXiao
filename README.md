@@ -51,13 +51,12 @@ traditional lithic analysis and modern computational methods.
 
 <p align="center">
 
-<a href="https://github.com/PeiyuanXiao"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeiyuanXiao&amp;theme=vue" alt="GitHub stats" width="340"/></a>
-<a href="https://github.com/PeiyuanXiao"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PeiyuanXiao&amp;theme=vue" alt="Top programming languages" width="340"/></a>
+<a href="https://github.com/PeiyuanXiao"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeiyuanXiao&amp;theme=vue" alt="GitHub stats" width="340"/></a><a href="https://github.com/PeiyuanXiao"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PeiyuanXiao&amp;theme=vue" alt="Top programming languages" width="340"/></a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/PeiyuanXiao"><img src="https://streak-stats.demolab.com?user=PeiyuanXiao&amp;theme=vue&amp;border_radius=5" alt="GitHub streak stats" width="680"/></a>
+<a href="https://github.com/PeiyuanXiao"><img src="https://streak-stats.demolab.com/?user=PeiyuanXiao&amp;theme=vue&amp;border_radius=5&amp;v=2" alt="GitHub streak stats" width="680"/></a>
 
 </p>
