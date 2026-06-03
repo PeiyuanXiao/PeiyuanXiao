@@ -43,8 +43,14 @@ traditional lithic analysis and modern computational methods.
 
 ## 📊 GitHub Statistics
 
+<h3 align="center">My Contributions</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PeiyuanXiao/PeiyuanXiao/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
+</p>
+
 <p align="center">
 
-<a href="https://github.com/PeiyuanXiao"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeiyuanXiao&amp;theme=default" alt="GitHub stats" height="150"/></a><a href="https://github.com/PeiyuanXiao"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PeiyuanXiao&amp;theme=github" alt="Top programming languages" height="150"/></a>
+<a href="https://github.com/PeiyuanXiao"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeiyuanXiao&amp;theme=default" alt="GitHub stats" height="150"/></a><a href="https://github.com/PeiyuanXiao"><img src="https://streak-stats.demolab.com?user=PeiyuanXiao&amp;theme=default&amp;hide_border=true&amp;border_radius=10" alt="GitHub streak stats" height="150"/></a><a href="https://github.com/PeiyuanXiao"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PeiyuanXiao&amp;theme=github" alt="Top programming languages" height="150"/></a>
 
 </p>
