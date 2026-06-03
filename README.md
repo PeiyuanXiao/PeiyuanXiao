@@ -57,6 +57,6 @@ traditional lithic analysis and modern computational methods.
 
 <p align="center">
 
-<a href="https://github.com/PeiyuanXiao"><img src="https://streak-stats.demolab.com/?user=PeiyuanXiao&amp;theme=vue&amp;border_radius=5&amp;v=2" alt="GitHub streak stats" width="680"/></a>
+<a href="https://github.com/PeiyuanXiao"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=PeiyuanXiao&amp;theme=vue&amp;border_radius=5" alt="GitHub streak stats" width="680"/></a>
 
 </p>
